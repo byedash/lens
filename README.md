@@ -9,7 +9,7 @@ I will continue iterating on and improving this in the future.
 1. Clone repo
 
 ```sh
-git clone git@github.com:dabit3/lens-shadcn.git
+git clone git@github.com:
 ```
 
 2. Install dependencies
